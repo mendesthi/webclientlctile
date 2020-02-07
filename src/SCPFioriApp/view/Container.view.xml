@@ -1,14 +1,20 @@
-<mvc:View controllerName="xxx.FioriContainerApp.controller.Container" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m" xmlns:html="http://www.w3.org/1999/xhtml">
-	<!--<Shell id="shell">-->
-		<App id="app">
-			<pages>
-				<Page id="page" title="{i18n>title}">
-					<content>
-						<html:iframe id="fiori_iframe" src="https://www.google.com/maps?igu=1&amp;q=maps&amp;uact=5&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ved=2ahUKEwiCrs6Y77_nAhWtM-wKHckPAu0Q_AUoAXoECAsQAw" target="_top"
-							height="100%" width="100%"></html:iframe>
-					</content>
-				</Page>
-			</pages>
-		</App>
-	<!--</Shell>-->
+<mvc:View controllerName="xxx.FioriContainerApp.controller.Container" xmlns:mvc="sap.ui.core.mvc" 
+displayBlock="true" xmlns="sap.m" xmlns:html="http://www.w3.org/1999/xhtml">
+<!--<Shell id="shell">-->
+	<App id="app">
+		<pages>
+			<Page id="page" title="{i18n&gt;title}">
+				<content>
+					<html:iframe 
+						id="fiori_iframe" 
+						src="https://www.google.com/webhp?igu=1"
+						target="_top" 
+						height="100%" 
+						width="100%">
+					</html:iframe>
+				</content>
+			</Page>
+		</pages>
+	</App>
+<!--</Shell>-->
 </mvc:View>
