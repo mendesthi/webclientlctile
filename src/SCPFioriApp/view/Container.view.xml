@@ -1,14 +1,18 @@
-<mvc:View controllerName="xxx.FioriContainerApp.controller.Container" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m" xmlns:html="http://www.w3.org/1999/xhtml">
-	<!--<Shell id="shell">-->
-		<App id="app">
-			<pages>
-				<Page id="page" title="{i18n>title}">
-					<content>
-						<html:iframe id="fiori_iframe" src="https://sapui5.hana.ondemand.com/test-resources/sap/viz/demokit/chartdemo/index.html" target="_top"
-							height="100%" width="100%"></html:iframe>
-					</content>
-				</Page>
-			</pages>
-		</App>
-	<!--</Shell>-->
+<mvc:View controllerName="xxx.FioriContainerApp.controller.Container" xmlns:mvc="sap.ui.core.mvc" 
+			displayBlock="true" xmlns="sap.m" xmlns:html="http://www.w3.org/1999/xhtml"><!--<Shell id="shell">-->
+	<App id="app">
+		<pages>
+			<Page id="page" title="{i18n&gt;title}">
+				<content>
+					<html:iframe 
+						id="fiori_iframe" 
+						src="https://www.sap.com/index.html" 
+						target="_top" 
+						height="100%" 
+						width="100%">
+					</html:iframe>
+				</content>
+			</Page>
+		</pages>
+	</App><!--</Shell>-->
 </mvc:View>
