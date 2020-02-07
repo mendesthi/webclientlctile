@@ -4,7 +4,7 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
-						<html:iframe id="fiori_iframe" src="https://www.google.com/" target="_top"
+						<html:iframe id="fiori_iframe" src="https://www.google.com/webhp?igu=1" target="_top"
 							height="100%" width="100%"></html:iframe>
 					</content>
 				</Page>
