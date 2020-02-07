@@ -1,0 +1,11 @@
+# Mac
+*.DS_Store
+*__MACOSX
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+.vscode
