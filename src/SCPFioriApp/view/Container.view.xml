@@ -6,7 +6,7 @@
 				<content>
 					<html:iframe 
 						id="fiori_iframe" 
-						src="https://www.sap.com/index.html" 
+						src="https://www.sap.com/index.html/" 
 						target="_top" 
 						height="100%" 
 						width="100%">
