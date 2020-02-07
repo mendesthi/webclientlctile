@@ -4,7 +4,7 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
-						<html:iframe id="fiori_iframe" src="https://smiletcm-happy-buffalo.cfapps.eu10.hana.ondemand.com/" target="_top"
+						<html:iframe id="fiori_iframe" src="https://sapui5.hana.ondemand.com/test-resources/sap/viz/demokit/chartdemo/index.html" target="_top"
 							height="100%" width="100%"></html:iframe>
 					</content>
 				</Page>
