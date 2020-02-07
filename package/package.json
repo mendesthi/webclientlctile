@@ -1,7 +1,7 @@
 {
 	"name": "pofioriscp",
 	"description": "Purchase Order Fiori Application on SCP",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"vendor": "SAP",
 	"multiple-version": "false",
 	"fiori-app": [
