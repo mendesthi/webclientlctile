@@ -6,7 +6,7 @@
 				<content>
 					<html:iframe 
 						id="fiori_iframe" 
-						src="https://help.sap.com/viewer/68a2e87fb29941b5bf959a184d9c6727/10.0/en-US/44c4c1cd7ca22e17e10000000a114a6b.html" 
+						src="https://www.google.com/maps?igu=1&q=maps&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiCrs6Y77_nAhWtM-wKHckPAu0Q_AUoAXoECAsQAw" 
 						target="_top" 
 						height="100%" 
 						width="100%">
