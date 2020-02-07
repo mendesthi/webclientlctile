@@ -7,7 +7,11 @@
 	"fiori-app": [
 		{
 			"name": "po-fiori-scp",
-			"folder": "FioriContainerApp"
+			"folder": "SCPFioriApp"
+		},
+		{
+			"name": "google",
+			"folder": "google"
 		}
 	]
 }
